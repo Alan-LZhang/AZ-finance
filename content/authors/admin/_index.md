@@ -13,27 +13,28 @@ organizations:
 - name: Georgia State University
   url: https://robinson.gsu.edu/phd/about/students-on-the-job-market/#1549566630557-5dfe99c0-93aa/
 
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include FinTech, investments and corporate finance.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- FinTech: machine learning, textual analysis
+- Investments: hedge funds, mutual funds
+- Corporate finance: disclosures
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Finance
+    institution: Georgia State University
+    year: 2021
+  - course: M.S. in Finance
+    institution: Johns Hopkins University 
+    year: 2014
+  - course: B.A. in Economics
+    institution: Xiamen University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
