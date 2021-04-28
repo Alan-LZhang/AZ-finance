@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Alan L. Zhang
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Finance
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Georgia State University
-  url: https://robinson.gsu.edu/phd/about/students-on-the-job-market/#1549566630557-5dfe99c0-93aa
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include FinTech, investments and corporate finance.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- FinTech: machine learning, textual analysis
-- Investments: hedge funds, mutual funds
-- Corporate finance: disclosures
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Finance
-    institution: Georgia State University
-    year: 2021
-  - course: M.S. in Finance
-    institution: Johns Hopkins University 
-    year: 2014
-  - course: B.A. in Economics
-    institution: Xiamen University
-    year: 2013
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,23 +45,23 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/alanzhang_fin
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/AZ-finance
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alan-zhang-0b1b0481/
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. Candidate in Finance at J. Mack Robinson College of Business, Georgia State University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-My research has been accepted for publication at Journal of Accounting Research, and has been presented at at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, RCFS Winter Conference, and PNC Finance Conference. It also has been featured on Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog, and Oxford Business Law Blog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
