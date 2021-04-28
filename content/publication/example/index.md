@@ -31,10 +31,11 @@ publication_types: ["2"]
 publication: forthcoming, *Journal of Accounting Research*
 # publication_short: *JAR*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We examine whether firms that imitate peer companies' strategies (copycats) profit from such behavior and how their success may cause competitive harm to disclosing companies. We identify copycat companies by tracking the digital footprints of investment companies that view disclosures on the SEC EDGAR website. We find that copycat companies are able to identify profitable trades that outperform other trades disclosed by the copycatted companies by 5.5% annually. Such stock-screening skills are related to investment sophistication and research intensity. Furthermore, copycats inflict greater damage on the performance of disclosing companies when they possess superior copycat skills, when disclosed trading strategies take longer to complete, and when disclosed stock holdings are characterized by high information asymmetry.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.
 
 tags: []
 
