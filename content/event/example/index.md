@@ -1,25 +1,11 @@
 ---
-title: Example Talk
+title: Copycat Skills and Disclosure Costs: Evidence from Peer Companies' Digital Footprints
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: We examine whether firms that imitate peer companies' strategies
+abstract: We examine whether firms that imitate peer companies' strategies (copycats) profit from such behavior and how their success may cause competitive harm to disclosing companies. We identify copycat companies by tracking the digital footprints of investment companies that view disclosures on the SEC EDGAR website. We find that copycat companies are able to identify profitable trades that outperform other trades disclosed by the copycatted companies by 5.5% annually. Such stock-screening skills are related to investment sophistication and research intensity. Furthermore, copycats inflict greater damage on the performance of disclosing companies when they possess superior copycat skills, when disclosed trading strategies take longer to complete, and when disclosed stock holdings are characterized by high information asymmetry.
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,9 +16,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+
 
 links:
 - icon: twitter
@@ -49,15 +33,15 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - example
 ---
 
 {{% callout note %}}
