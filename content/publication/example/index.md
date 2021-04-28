@@ -11,11 +11,11 @@ authors:
 - admin
 
 # Author notes (optional)
-# author_notes:
+ author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "forthcoming"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of Accounting Research*
-# publication_short: In *ICW*
+publication: forthcoming, *Journal of Accounting Research*
+publication_short: *Journal of Accounting Research*
 
-abstract: We examine whether firms that imitate peer companies’ strategies (copycats) profit from such behavior and how their success may cause competitive harm to disclosing companies. We identify copycat companies by tracking the digital footprints of investment companies that view disclosures on the SEC EDGAR website. We find that copycat companies are able to identify profitable trades that outperform other trades disclosed by the copycatted companies by 5.5% annually. Such stock-screening skills are related to investment sophistication and research intensity. Furthermore, copycats inflict greater damage on the performance of disclosing companies when they possess superior copycat skills, when disclosed trading strategies take longer to complete, and when disclosed stock holdings are characterized by high information asymmetry.
+abstract: 'We examine whether firms that imitate peer companies’ strategies (copycats) profit from such behavior and how their success may cause competitive harm to disclosing companies. We identify copycat companies by tracking the digital footprints of investment companies that view disclosures on the SEC EDGAR website. We find that copycat companies are able to identify profitable trades that outperform other trades disclosed by the copycatted companies by 5.5% annually. Such stock-screening skills are related to investment sophistication and research intensity. Furthermore, copycats inflict greater damage on the performance of disclosing companies when they possess superior copycat skills, when disclosed trading strategies take longer to complete, and when disclosed stock holdings are characterized by high information asymmetry.'
 
 # Summary. An optional shortened abstract.
-summary: Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.
+summary: 'Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.'
 
 tags: []
 
@@ -67,8 +67,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - example
+ projects:
+ - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
