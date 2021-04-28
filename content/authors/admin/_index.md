@@ -71,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. Candidate in Finance at J. Mack Robinson College of Business, Georgia State University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research has been accepted for publication at Journal of Accounting Research, and has been presented at at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, RCFS Winter Conference, and PNC Finance Conference. It also has been featured on Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog, and Oxford Business Law Blog.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
