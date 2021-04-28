@@ -10,8 +10,8 @@ role: Ph.D. in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Georgia State University
+  url: https://robinson.gsu.edu/phd/about/students-on-the-job-market/#1549566630557-5dfe99c0-93aa/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
