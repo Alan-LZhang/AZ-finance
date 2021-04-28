@@ -8,7 +8,7 @@ authors:
 - Sean Cao
 - Kai Du
 - Baozhong Yang
-- admin
+
 
 # Author notes (optional)
  author_notes:
