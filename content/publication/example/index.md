@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Copycat Skills and Disclosure Costs: Evidence from Peer Companies' Digital Footprints"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
