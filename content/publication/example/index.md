@@ -5,8 +5,10 @@ title: "Copycat Skills and Disclosure Costs: Evidence from Peer Companies' Digit
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Sean Cao
+- Kai Du
+- Baozhong Yang
+- admin 
 
 # Author notes (optional)
 author_notes:
