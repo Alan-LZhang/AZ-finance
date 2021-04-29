@@ -42,7 +42,7 @@ title: Research
 &nbsp;
 
 ## **Selected Work in Progress**
-
+&nbsp;
  - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
  - Do Hedge Funds Know Which Hedge Funds are Good?
 
