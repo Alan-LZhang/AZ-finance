@@ -41,28 +41,32 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/alanzhang_fin
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/AZ-finance
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alan-zhang-0b1b0481/
-
+# - icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AZ-finance
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/alanzhang_fin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alan-zhang-0b1b0481/
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
