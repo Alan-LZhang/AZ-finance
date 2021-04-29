@@ -1,0 +1,30 @@
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 110
+
+title: Upcoming Presentations
+
+
+---
+
+- [Conference on Financial Innovation at Stevens Institute of Technology](https://stevens.zoom.us/meeting/register/tJYqceyorj8vH9RCW2jPkMgjo3sYfZxoOTX_), April 30, 2021 (Virtual)
+
+  - Uncovering Mutual Fund Private Information with Machine Learning 
+
+- 2021 CAPANA Research Conference, July 1, 2021 (Virtual)
+
+  - How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI
+
+- 2021 China International Conference in Finance, July 6-9, 2021 (Virtual)
+
+  - Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance
