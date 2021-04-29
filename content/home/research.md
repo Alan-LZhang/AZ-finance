@@ -47,6 +47,6 @@ title: Research
  - Do Hedge Funds Know Which Hedge Funds are Good?
 
 
-# '<html> <div class="font-effect-FONT-EFFECT" style="font-size: 80px; text-align: justify;">This is a test.</div></html>'
+
   
 
