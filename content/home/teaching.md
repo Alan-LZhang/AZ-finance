@@ -37,4 +37,5 @@ title: Teaching
 
 - **Teaching Assistant**, The Johns Hopkins University (2014 – 2015)
 
-  - TA to Prof. [Kwang Soo Cheong](https://carey.jhu.edu/faculty/faculty-directory/kwang-soo-cheong-phd) (Courses: Microeconomics/Economics for Decision Making (MBA), Financial Econometrics (MS-Finance) )
+  - TA to Prof. [Kwang Soo Cheong](https://carey.jhu.edu/faculty/faculty-directory/kwang-soo-cheong-phd) 
+  - Courses: Microeconomics/Economics for Decision Making (MBA), Financial Econometrics (MS-Finance)
