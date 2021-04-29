@@ -39,6 +39,7 @@ title: Research
 
   - Presentations: *CICF  2021 (scheduled), 2nd Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*
 &nbsp;
+&nbsp;
 
 ## **Selected Work in Progress**
 
@@ -46,6 +47,6 @@ title: Research
  - Do Hedge Funds Know Which Hedge Funds are Good?
 
 
-# <html> <div class="font-effect-FONT-EFFECT" style="font-size: 80px; text-align: justify;">This is a test.</div></html>
+# '<html> <div class="font-effect-FONT-EFFECT" style="font-size: 80px; text-align: justify;">This is a test.</div></html>'
   
 
