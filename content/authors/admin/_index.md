@@ -50,8 +50,11 @@ social:
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
 - icon: ssrn
   icon_pack: ai
