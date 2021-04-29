@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Alan Zhang | GSU # Website name
-baseurl: 'https://AZ-finance.github.io' # Website URL
+baseurl: 'https://Alan-Lzhang.github.io' # Website URL
 copyright: '© Alan Zhang. "It is a capital mistake to theorize before one has data." - Sherlock Holmes' # Footer text, e.g. '© {year} Me'
 
 ############################
