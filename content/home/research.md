@@ -38,11 +38,10 @@ title: Research
 - Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance, with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
 
   - Presentations: *CICF  2021 (scheduled), 2nd Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*
-&nbsp;
+
 &nbsp;
 
 ## **Selected Work in Progress**
-
  - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
  - Do Hedge Funds Know Which Hedge Funds are Good?
 

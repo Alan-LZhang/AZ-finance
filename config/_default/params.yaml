@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: lzhang27@gsu.edu
-phone: ‪(404) 750-4630‬
+phone: ‪+1 (404) 750-4630‬
 address:
   street: Department of Finance, J. Mack Robinson College of Business, 35 Broad Street NW, Suite 1242
   city: Atlanta
@@ -37,11 +37,15 @@ address:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
-#contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
+contact_links:
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn me
+    link: 'https://www.linkedin.com/in/alan-zhang-0b1b0481/'
+  - icon: twitter
+    icon_pack: fab
+    name: Tweet me
+    link: 'https://twitter.com/alanzhang_fin'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me

@@ -12,19 +12,30 @@ headless: true
 # Order that this section appears on the page.
 weight: 110
 
-title: Upcoming Presentations
+title: Teaching
 
 
 ---
 
-- [Conference on Financial Innovation at Stevens Institute of Technology](https://stevens.zoom.us/meeting/register/tJYqceyorj8vH9RCW2jPkMgjo3sYfZxoOTX_), April 30, 2021 (Virtual)
+- **Instructor**, Georgia State University (2018 – 2021)
 
-  - Uncovering Mutual Fund Private Information with Machine Learning 
+  - GTA Teaching Excellence Award from the J. Mack Robinson College of Business, 2020
 
-- 2021 CAPANA Research Conference, July 1, 2021 (Virtual)
+  - Corporation Finance (2018 Fall, 2019 Spring, 2019 Summer, 2019 Fall and 2020 Fall)
 
-  - How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI
+    - Teaching Evaluation: 4.7/5 (last 4 sections)
 
-- 2021 China International Conference in Finance, July 6-9, 2021 (Virtual)
+  - Corporation Finance - Honor's Track (2019 Fall)
 
-  - Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance
+    - Teaching Evaluation: 4.7/5 
+
+  - Financial Analysis and Introduction to Loan Structuring (Case study course, 2020 Spring and 2021 Spring)
+
+  - New Student Orientation (2020 Fall)
+
+ &#013;
+
+- **Teaching Assistant**, The Johns Hopkins University (2014 – 2015)
+
+  - TA to Prof. [Kwang Soo Cheong](https://carey.jhu.edu/faculty/faculty-directory/kwang-soo-cheong-phd) 
+  - Courses: Microeconomics/Economics for Decision Making (MBA), Financial Econometrics (MS-Finance)

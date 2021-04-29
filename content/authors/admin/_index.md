@@ -41,28 +41,35 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/alanzhang_fin
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/AZ-finance
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alan-zhang-0b1b0481/
-
+# - icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AZ-finance
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/alanzhang_fin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alan-zhang-0b1b0481/
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +82,9 @@ I am a Ph.D. Candidate in Finance at J. Mack Robinson College of Business, Georg
 
 My research has been accepted for publication at *Journal of Accounting Research*, and has been presented at at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, RCFS Winter Conference, and PNC Finance Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
 
-{{< icon name="download" pack="fas" >}} Download Alan's {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Alan's {{< staticref "media/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+
+{{< icon name="google-scholar" pack="ai" >}}[**Google Scholar**](https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en)
+
+{{< icon name="ssrn" pack="ai" >}}[**SSRN Author Page**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912)
+
