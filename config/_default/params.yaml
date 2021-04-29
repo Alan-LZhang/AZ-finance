@@ -38,10 +38,10 @@ address:
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-   - icon: linkedin
-     icon_pack: fab
-     name: LinkedIn me
-     link: 'https://www.linkedin.com/in/alan-zhang-0b1b0481/'
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn me
+    link: 'https://www.linkedin.com/in/alan-zhang-0b1b0481/'
   - icon: twitter
     icon_pack: fab
     name: Tweet me
