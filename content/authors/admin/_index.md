@@ -81,3 +81,7 @@ My research has been accepted for publication at *Journal of Accounting Research
 
 {{< icon name="ssrn" pack="ai" >}}[**SSRN Author Page**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912)
 
+- icon: graduation-cap  
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en
+  name: Google Scholar
