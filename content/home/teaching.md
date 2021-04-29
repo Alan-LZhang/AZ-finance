@@ -17,7 +17,7 @@ title: Teaching
 
 ---
 
-- **Instructor**, Georgia State University (2018 – Present)
+- **Instructor**, Georgia State University (2018 – 2021)
 
   - GTA Teaching Excellence Award from the J. Mack Robinson College of Business, 2020
 
