@@ -16,6 +16,13 @@ title: Research
 
 
 ---
+
+**Publication**
+
+- [Copycat Skills and Disclosure Costs: Evidence from Peer Companies’ Digital Footprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3280744), with [Sean Cao](https://sites.google.com/view/seancao/home), [Kai Du](https://sites.google.com/view/kai-du/) and [aozhong Yang](https://sites.google.com/view/baozhongyang/), **_Journal of Accounting Research_**, forthcoming.
+
+'Presentations:' *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*
+
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
 [Explore similar templates](https://wowchemy.com/templates/)
