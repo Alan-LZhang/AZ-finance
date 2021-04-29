@@ -5,7 +5,7 @@
 
 title: Alan Zhang | GSU # Website name
 baseurl: 'https://AZ-finance.github.io' # Website URL
-copyright: '©Alan Zhang - "It is a capital mistake to theorize before you have all the evidence."' # Footer text, e.g. '© {year} Me'
+copyright: '©Alan Zhang - "It is a capital mistake to theorize before one has data."' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
