@@ -61,7 +61,7 @@ social:
   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912 
 - icon: github
   icon_pack: fab
-  link: https://github.com/AZ-finance
+  link: https://github.com/Alan-LZhang
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alanzhang_fin
@@ -78,7 +78,6 @@ email: ""
 highlight_name: false
 ---
 
-Test.
 I am a Ph.D. Candidate in Finance at J. Mack Robinson College of Business, Georgia State University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
 
 My research has been accepted for publication at *Journal of Accounting Research*, and has been presented at at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, RCFS Winter Conference, and PNC Finance Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
