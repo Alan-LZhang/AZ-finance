@@ -22,7 +22,7 @@ title: Research
 - [Copycat Skills and Disclosure Costs: Evidence from Peer Companies’ Digital Footprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3280744), with [Sean Cao](https://sites.google.com/view/seancao/home), [Kai Du](https://sites.google.com/view/kai-du/) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), **_Journal of Accounting Research_**, forthcoming.
   - Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.
   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*  
-
+&nbsp;
 
 ## **Working Papers**
 
@@ -38,6 +38,7 @@ title: Research
 - Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance, with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
 
   - Presentations: *CICF  2021 (scheduled), 2nd Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*
+&nbsp;
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
