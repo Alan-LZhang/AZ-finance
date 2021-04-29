@@ -40,12 +40,12 @@ address:
 contact_links:
    - icon: linkedin
      icon_pack: fab
-     name: Linkedin
+     name: LinkedIn me
      link: 'https://www.linkedin.com/in/alan-zhang-0b1b0481/'
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
+  - icon: twitter
+    icon_pack: fab
+    name: Tweet me
+    link: 'https://twitter.com/alanzhang_fin'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
