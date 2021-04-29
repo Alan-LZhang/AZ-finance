@@ -44,6 +44,10 @@ title: Research
  - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
  - Do Hedge Funds Know Which Hedge Funds are Good?
 
+
+<html> <div class="font-effect-FONT-EFFECT" style="font-size: 18px; text-align: justify;">This is a test.<div>
+  
+  
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
 [Explore similar templates](https://wowchemy.com/templates/)
