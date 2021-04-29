@@ -39,6 +39,10 @@ title: Research
 
   - Presentations: *CICF  2021 (scheduled), 2nd Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*
 &nbsp;
+## **Selected Work in Progress**
+
+ - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
+ - Do Hedge Funds Know Which Hedge Funds are Good?
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
