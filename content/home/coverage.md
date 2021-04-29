@@ -17,11 +17,10 @@ title: Coverage for Research
 
 ---
 
-## **Publication**
 
-- NBER Digest, December 2020, [Corporate Reporting in the Era of Artificial Intelligence](https://www.nber.org/sites/default/files/2020-11/dec20.pdf) by Dylan Parry 
+- *NBER Digest*, December 2020, [Corporate Reporting in the Era of Artificial Intelligence](https://www.nber.org/sites/default/files/2020-11/dec20.pdf) by Dylan Parry 
 
-- Financial Times, December 5, 2020, [Robo-Surveillance Shifts Tone of CEO Earnings Calls](https://www.ft.com/content/ca086139-8a0f-4d36-a39d-409339227832) by Robin Wigglesworth
+- **Financial Times**, December 5, 2020, [Robo-Surveillance Shifts Tone of CEO Earnings Calls](https://www.ft.com/content/ca086139-8a0f-4d36-a39d-409339227832) by Robin Wigglesworth
 
 - Guardian, December 5, 2020, [Companies are Now Writing Reports Tailored for AI Readers – and It Should Worry Us](https://www.theguardian.com/commentisfree/2020/dec/05/companies-are-now-writing-reports-tailored-for-ai-readers-and-it-should-worry-us) by John Naughton
 
