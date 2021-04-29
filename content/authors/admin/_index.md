@@ -77,5 +77,6 @@ My research has been accepted for publication at *Journal of Accounting Research
 
 {{< icon name="download" pack="fas" >}} Download Alan's {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="google-scholar" pack="ai" >}}[**Google Scholar**](https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en).
+{{< icon name="google-scholar" pack="ai" >}}[**Google Scholar**](https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en)
+{{< icon name="ssrn" pack="ai" >}}[**SSRN Author Page**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912)
 
