@@ -21,7 +21,7 @@ title: Upcoming Presentations
 
   - Uncovering Mutual Fund Private Information with Machine Learning 
 
-- 2021 CAPANA Research Conference, July 1, 2021 (Virtual)
+- [2021 CAPANA Research Conference](http://www.capana.net/www/conference2021/2021CAPANAConferenceSchedule.pdf), July 1, 2021 (Virtual)
 
   - How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI
 
