@@ -33,7 +33,7 @@ title: Teaching
 
   - New Student Orientation (2020 Fall)
 
-
+\n
 
 - **Teaching Assistant**, The Johns Hopkins University (2014 – 2015)
 
