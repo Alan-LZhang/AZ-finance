@@ -30,7 +30,7 @@ title: Research
   - Presentations: *[Conference on Financial Innovation at Stevens Business School](https://stevens.zoom.us/meeting/register/tJYqceyorj8vH9RCW2jPkMgjo3sYfZxoOTX_) (scheduled), Winter Conference on Machine Learning and Business at University of Miami, Financial Markets and Corporate Governance Conference PhD Symposium*  
 &nbsp;
 
-- [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), **_R&R_**, **_Review of Financial Studies_** 
+- [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12)
   - Presentations:  *NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference,  Adam Smith Workshop Spring 2021, FIRS 2021 (scheduled), 3rd Bergen FinTech Conference, SOAR Symposium at Singapore Management University, RCFS Winter Conference 2021, London Business School, Maryland, Toronto, Harvard*  
 &nbsp;
