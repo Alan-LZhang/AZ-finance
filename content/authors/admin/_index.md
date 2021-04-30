@@ -82,7 +82,7 @@ I am a Ph.D. Candidate in Finance at J. Mack Robinson College of Business, Georg
 
 My research has been accepted for publication at *Journal of Accounting Research*, and has been presented at at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, RCFS Winter Conference, and PNC Finance Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
 
-{{< icon name="download" pack="fas" >}} Download Alan's {{< staticref "media/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Alan's {{< staticref "media/resume.pdf" "newtab" >}}**Curriculum Vitae**{{< /staticref >}}.
 
 {{< icon name="google-scholar" pack="ai" >}}[**Google Scholar**](https://scholar.google.com/citations?user=6gYiXw8AAAAJ&hl=en)
 
