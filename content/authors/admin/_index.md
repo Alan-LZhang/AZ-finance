@@ -28,13 +28,13 @@ education:
   courses:
   - course: Ph.D. in Finance
     institution: Georgia State University
-    year: 2021
+#    year: 2021
   - course: M.S. in Finance
     institution: Johns Hopkins University 
-    year: 2014
+#    year: 2014
   - course: B.A. in Economics
     institution: Xiamen University
-    year: 2013
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
