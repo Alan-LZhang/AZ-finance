@@ -26,7 +26,7 @@ title: Research
 
 ## **Working Papers**
 
-- (**new**) [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
+- [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
   - Presentations: *2021 China International Risk Forum (scheduled), [Conference on Financial Innovation at Stevens Business School](https://stevens.zoom.us/meeting/register/tJYqceyorj8vH9RCW2jPkMgjo3sYfZxoOTX_), Winter Conference on Machine Learning and Business at University of Miami, Financial Markets and Corporate Governance Conference PhD Symposium*  
 &nbsp;
 
