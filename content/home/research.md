@@ -32,7 +32,7 @@ title: Research
 
 - [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12)
-  - Presentations:  *AFA 2022 (scheduled), 2021 Cambridge Centre for Alternative Finance Annual Conference (scheduled), NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, FIRS 2021 (scheduled), 3rd Bergen FinTech Conference, SOAR Symposium at Singapore Management University, RCFS Winter Conference 2021, London Business School, Maryland, Toronto, Harvard*  
+  - Presentations:  *AFA 2022 (scheduled), [Cambridge Centre for Alternative Finance Sixth Annual Conference](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/annual-conference) (scheduled), [FIRS 2021](https://firsocietyblog.files.wordpress.com/2021/05/firs-conference-program.pdf) (scheduled), NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, 3rd Bergen FinTech Conference, SOAR Symposium at Singapore Management University, RCFS Winter Conference 2021, London Business School, Maryland, Toronto, Harvard*  
 &nbsp;
 
 - Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance, with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
