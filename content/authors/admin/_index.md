@@ -6,12 +6,12 @@ title: Alan L. Zhang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Finance
+role: Assistant Professor of Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Georgia State University
-  url: https://robinson.gsu.edu/phd/about/students-on-the-job-market/#1549566630557-5dfe99c0-93aa/
+- name: Florida International University
+  url: https://business.fiu.edu/academic-departments/finance/faculty.cfm
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -78,7 +78,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. Candidate in Finance at J. Mack Robinson College of Business, Georgia State University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
+I am an Assistant Professor of Finance at College of Business, Florida International University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
 
 My research has been accepted for publication at *Journal of Accounting Research*, and has been presented at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, AFA, CICF, FIRS, and RCFS Winter Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
 
