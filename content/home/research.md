@@ -33,7 +33,6 @@ title: Research
 
 - [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
   - Presentations: *[Conference on Financial Innovation at Stevens Business School](https://stevens.zoom.us/meeting/register/tJYqceyorj8vH9RCW2jPkMgjo3sYfZxoOTX_), Winter Conference on Machine Learning and Business at University of Miami, 2021 China International Risk Forum, Financial Markets and Corporate Governance Conference PhD Symposium* 
-
 &nbsp;
 
 - Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance, with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
