@@ -21,6 +21,6 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.68.3
-        TARGET_REPO: jrwrigh/jrwrigh.github.io
+        TARGET_REPO: Alan-LZhang/Alan-LZhang.github.io
         TOKEN: ${{ secrets.Hugo_Deploy_GitHub_Action }}
-        CNAME: www.jameswright.xyz
+        CNAME: www.alanlzhang.com
