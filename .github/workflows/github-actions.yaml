@@ -1,0 +1,26 @@
+
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout master
+      uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Hugo Deploy GitHub Pages
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        HUGO_VERSION: 0.74.2
+        TARGET_REPO: Alan-LZhang/Alan-LZhang.github.io
+        TOKEN: ${{ secrets.Hugo_Deploy_GitHub_Action }}
+        CNAME: www.alanlzhang.com
