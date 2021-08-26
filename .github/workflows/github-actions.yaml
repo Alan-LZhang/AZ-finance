@@ -20,7 +20,7 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
-        HUGO_VERSION: 0.83.1
+        HUGO_VERSION: 0.83.0
         TARGET_REPO: Alan-LZhang/Alan-LZhang.github.io
         TOKEN: ${{ secrets.Hugo_Deploy_GitHub_Action }}
         CNAME: Alan-LZhang.github.io
