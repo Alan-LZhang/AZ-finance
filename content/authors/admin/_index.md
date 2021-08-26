@@ -78,7 +78,7 @@ email: ""
 highlight_name: false
 ---
 
-I am an Assistant Professor of Finance at College of Business, Florida International University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
+I am an Assistant Professor of Finance at Florida International University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
 
 My research has been accepted for publication at *Journal of Accounting Research*, and has been presented at prestigious conferences, such as the National Bureau of Economic Research (NBER) Economics of AI Conference, NBER Big Data and Securities Markets Conference, AFA, CICF, FIRS, and RCFS Winter Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
 
