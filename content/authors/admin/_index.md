@@ -21,7 +21,7 @@ bio: My research interests include FinTech, investments and corporate finance.
 interests:
 - 'FinTech: machine learning, textual analysis'
 - 'Investments: hedge funds, mutual funds'
-- 'Corporate finance: disclosures'
+- 'Corporate finance: disclosures, behavioral finance'
 
 # Education to show in About widget
 education:
