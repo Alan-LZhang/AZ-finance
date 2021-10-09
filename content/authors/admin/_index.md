@@ -11,7 +11,7 @@ role: Assistant Professor of Finance
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Florida International University
-  url: https://business.fiu.edu/academic-departments/finance/faculty.cfm
+  url: https://business.fiu.edu/faculty/expert-guides.cfm?FlagDirectory=Display&EMP=zhangl2
 
 
 # Short bio (displayed in user profile at end of posts)
