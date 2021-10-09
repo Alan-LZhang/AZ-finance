@@ -19,6 +19,9 @@ main:
 #   - name: Presentation
 #     url: '#presentations'
 #     weight: 40
+  - name: Coverage
+    url: '#coverage'
+    weight: 50
 #   - name: Teaching
 #     url: '#teaching'
 #     weight: 60
