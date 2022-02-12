@@ -40,7 +40,7 @@ title: Research
   - Presentations: *CICF  2021, 2nd Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*
 &nbsp;
 
-- FinTech Mergers (Draft available upon request), with Joanna Wang
+- FinTech Mergers (Draft available upon request), with [Joanna Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3072317)
 
 ## **Selected Work in Progress**
  - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
