@@ -35,11 +35,13 @@ title: Research
   - Presentations: *[Conference on Financial Innovation at Stevens Business School](https://stevens.zoom.us/meeting/register/tJYqceyorj8vH9RCW2jPkMgjo3sYfZxoOTX_), Winter Conference on Machine Learning and Business at University of Miami, 2021 China International Risk Forum, Financial Markets and Corporate Governance Conference PhD Symposium* 
 &nbsp;
 
-- Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance, with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
+- Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance (Draft available upon request), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
 
   - Presentations: *CICF  2021, 2nd Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*
 
 &nbsp;
+
+- FinTech Mergers (Draft available upon request), with Joanna Wang
 
 ## **Selected Work in Progress**
  - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
