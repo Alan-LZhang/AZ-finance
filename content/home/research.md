@@ -42,7 +42,7 @@ title: Research
 &nbsp;
 &nbsp;
 
-- FinTech Mergers (Draft available upon request), with [Joanna Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3072317)
+- [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3072317)
   - Featured on Columbia Law School Blue Sky Blog
 
 ## **Selected Work in Progress**
