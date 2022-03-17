@@ -51,6 +51,3 @@ title: Research
 
 
 
-  
-
-99
