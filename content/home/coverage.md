@@ -16,6 +16,8 @@ title: Coverage for Research
 
 
 ---
+- **Columbia Law School Blue Sky Blog**,  March 18, 2022, [How FinTech Affects Corporate Takeover Markets](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets//)
+- 
 - **Columbia Law School Blue Sky Blog**, September 29, 2021, [Copycat Skills and Disclosure Costs](https://clsbluesky.law.columbia.edu/2021/09/29/copycat-skills-and-disclosure-costs/)
 
 - **NBER Digest**, December 2020, [Corporate Reporting in the Era of Artificial Intelligence](https://www.nber.org/sites/default/files/2020-11/dec20.pdf) by Dylan Parry 
