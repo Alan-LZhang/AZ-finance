@@ -32,7 +32,7 @@ title: Research
 &nbsp;
 
 - [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
-  - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, CIRF 2021, Technische Universität München* 
+  - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, CIRF 2021, latest advances in NLP at Technische Universität München* 
 &nbsp;
 &nbsp;
 
