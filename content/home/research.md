@@ -28,7 +28,7 @@ title: Research
 
 - [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12)
-  - Presentations:  *AFA 2022, NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference, FIRS 2021, RCFS Winter Conference 2021, London Business School, Maryland, Toronto, Harvard*   
+  - Presentations:  *AFA 2022, NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference, FIRS 2021, RCFS Winter Conference 2021*   
 &nbsp;
 
 - [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
