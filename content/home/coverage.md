@@ -22,7 +22,7 @@ title: Coverage for Research
 
 - **Columbia Law School Blue Sky Blog**, September 29, 2021, [Copycat Skills and Disclosure Costs](https://clsbluesky.law.columbia.edu/2021/09/29/copycat-skills-and-disclosure-costs/)
 
-- **NBER Digest**, December 2020, [Corporate Reporting in the Era of Artificial Intelligence](https://www.nber.org/sites/default/files/2020-11/dec20.pdf) by Dylan Parry 
+- **NBER Digest**(Lead Article), December 2020, [Corporate Reporting in the Era of Artificial Intelligence](https://www.nber.org/sites/default/files/2020-11/dec20.pdf) by Dylan Parry 
 
 - **Financial Times**, December 5, 2020, [Robo-Surveillance Shifts Tone of CEO Earnings Calls](https://www.ft.com/content/ca086139-8a0f-4d36-a39d-409339227832) by Robin Wigglesworth
 
