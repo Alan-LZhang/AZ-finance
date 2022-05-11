@@ -16,6 +16,8 @@ title: Coverage for Research
 
 
 ---
+- **Columbia Law School Blue Sky Blog**,  April 29, 2022, [Deep Learning Mutual Fund Risk Assessment and Performance](https://clsbluesky.law.columbia.edu/2022/04/29/deep-learning-mutual-fund-risk-assessment-and-performance/)
+
 - **Columbia Law School Blue Sky Blog**,  March 18, 2022, [How FinTech Affects Corporate Takeover Markets](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets//)
 
 - **Columbia Law School Blue Sky Blog**, September 29, 2021, [Copycat Skills and Disclosure Costs](https://clsbluesky.law.columbia.edu/2021/09/29/copycat-skills-and-disclosure-costs/)
