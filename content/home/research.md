@@ -32,11 +32,12 @@ title: Research
 &nbsp;
 
 - [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
-  - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, CIRF 2021, Latest Advances in NLP at Technische Universität München*   
+  - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, Latest Advances in NLP at Technische Universität München, FMA 2022*   
 &nbsp;
 
 - [Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
-  - Presentations: *CICF 2021, CIRF 2021, Conference on Emerging Technologies in Accounting and Financial Economics at Cornell University (cancelled due to COVID-19)*  &nbsp;
+  - Presentations: *CICF 2021*  
+  - &nbsp;
 
 - [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3072317)
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets/)
