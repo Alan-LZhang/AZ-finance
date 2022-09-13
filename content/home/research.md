@@ -35,7 +35,7 @@ title: Research
   - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, Latest Advances in NLP at Technische Universität München, FMA 2022*   
 &nbsp;
 
-- [Deep Learning Mutual Fund Disclosure: Risk Sentiment, Risk Taking, and Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
+- [Deep Learning Fund Managers' Narratives: Risk Assessment and Fund Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
   - Presentations: *CICF 2021*  
 &nbsp;
 
