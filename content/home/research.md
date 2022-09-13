@@ -44,7 +44,7 @@ title: Research
   - Presentations: *China Fintech Research Conference, AsianFA*\
 &nbsp;
 
-- [Artificially Intelligent Forecasts, Analyst Sentiment, and Market Behavior](draft available soon), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)
+- Artificially Intelligent Forecasts, Analyst Sentiment, and Market Behavior (draft available soon), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)
   - Presentations: *FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*
 
 ## **Selected Work in Progress**
