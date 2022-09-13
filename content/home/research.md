@@ -41,7 +41,11 @@ title: Research
 
 - [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3072317)
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets/)
-  - Presentations: *China Fintech Research Conference, AsianFA*
+  - Presentations: *China Fintech Research Conference, AsianFA*\
+&nbsp;
+
+- [Artificially Intelligent Forecasts, Analyst Sentiment, and Market Behavior](draft available soon), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)
+  - Presentations: *FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*
 
 ## **Selected Work in Progress**
  - Can Mutual Fund Investors Identify "Smart Money"? with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
