@@ -39,7 +39,7 @@ title: Research
   - Presentations: *CICF 2021*  
 &nbsp;
 
-- [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3072317)
+- [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://www.joannawang-finance.com/)
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets/)
   - Presentations: *China Fintech Research Conference, AsianFA*\
 &nbsp;
