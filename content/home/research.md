@@ -36,7 +36,7 @@ title: Research
 &nbsp;
 
 - [Deep Learning Fund Managers' Narratives: Risk Assessment and Fund Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
-  - Presentations: *CICF 2021*  
+  - Presentations: *CICF 2021,  35th Australasian Finance and Banking Conference, China Fintech Research Conference*  
 &nbsp;
 
 - [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://www.joannawang-finance.com/)
