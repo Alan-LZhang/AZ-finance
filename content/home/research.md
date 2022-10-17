@@ -51,7 +51,7 @@ title: Research
 
 - [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies across buisness cycles, correlates with macroeconomic information, and helps create a profitable trading strategy.*
-  - Presentations: *FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*
+  - Presentations: *FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022* 
 &nbsp;
 
 - [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://www.joannawang-finance.com/)
