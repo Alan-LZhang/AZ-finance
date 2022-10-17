@@ -54,6 +54,7 @@ title: Research
   - Presentations: *FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022* 
 &nbsp;
 
+
 - [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://www.joannawang-finance.com/)
   - *FinTech firms become increasingly attractive targets in corporate takeover markets. FinTech deals improve value creation to combine firms and generate spillover effects to peer firms.*
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets/)
