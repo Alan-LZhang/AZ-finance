@@ -26,8 +26,8 @@ title: Research
 
 ## **What's New:**
 
-- (new) [Artificially Intelligent Analyst Sentiment and Market Behavior]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
-- (new) [Deep Learning Fund Managers' Narratives: Risk Assessment and Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
+- **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
+- **(new)** [Deep Learning Fund Managers' Narratives: Risk Assessment and Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
 
 
 
