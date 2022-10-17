@@ -24,6 +24,13 @@ title: Research
 <!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
 &nbsp;
 
+## **What's New:**
+
+- (new) [Artificially Intelligent Analyst Sentiment and Market Behavior]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
+- (new) [Deep Learning Fund Managers' Narratives: Risk Assessment and Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
+
+
+
 ## **Working Papers**
 
 - [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
