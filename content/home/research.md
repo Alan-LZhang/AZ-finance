@@ -24,7 +24,7 @@ title: Research
 <!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
 &nbsp;
 
-## **What's New:**
+## **What's New**
 
 - **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
 - **(new)** [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
