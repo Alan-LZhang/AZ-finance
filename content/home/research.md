@@ -45,7 +45,7 @@ title: Research
 &nbsp;
 
 - [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
-  - *We use state-of-the-art NLP tools to extract mutual fund managers' risk assessment, which predicts their future risk-taking and fund performance.*
+  - *We use state-of-the-art NLP tools to extract mutual fund managers' risk assessment from their narrative discussions, which predicts their future risk-taking and fund performance.*
   - Presentations: *CICF 2021,  2022 Global AI Finance Research Conference, 35th Australasian Finance and Banking Conference, China Fintech Research Conference*  
 &nbsp;
 
