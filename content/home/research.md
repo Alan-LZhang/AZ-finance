@@ -27,7 +27,7 @@ title: Research
 ## **What's New:**
 
 - **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
-- **(new)** [Deep Learning Fund Managers' Narratives: Risk Assessment and Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
+- **(new)** [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
 
 &nbsp;
 
@@ -44,7 +44,7 @@ title: Research
   - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, Latest Advances in NLP at Technische Universität München, FMA 2022*   
 &nbsp;
 
-- [Deep Learning Fund Managers' Narratives: Risk Assessment and Fund Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
+- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
   - *We use state-of-the-art NLP tools to extract mutual fund managers' risk assessment, which predicts their future risk-taking and fund performance.*
   - Presentations: *CICF 2021,  2022 Global AI Finance Research Conference, 35th Australasian Finance and Banking Conference, China Fintech Research Conference*  
 &nbsp;
