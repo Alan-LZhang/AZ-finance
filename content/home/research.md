@@ -27,7 +27,7 @@ title: Research
 ## **What's New**
 
 - **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
-- **(new)** [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
+- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
 
 &nbsp;
 
@@ -65,7 +65,4 @@ title: Research
 ## **Selected Work in Progress**
  - Can Mutual Fund Investors Identify "Smart Money?" with [Vikas Agarwal](http://vagarwal.gsucreate.org/)
  - Do Hedge Funds Know Which Hedge Funds are Good?
-
-
-
 
