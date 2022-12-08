@@ -33,7 +33,7 @@ title: Research
 
 ## **Working Papers**
 
-- [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
+- [How to Talk When a Machine is Listening? Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
   - *Managers reshape the style and sentiment of their disclosure, and their voice emotion in response to the increasing machine and AI readership.*
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12)
   - Presentations:  *AFA 2022, NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference, FIRS 2021, RCFS Winter Conference 2021*   
@@ -51,7 +51,7 @@ title: Research
 
 - [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/), invited for submission, *Review of Financial Studies* 
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies with macroeconomic information, and helps create a profitable trading strategy.*
-  - Presentations: *FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*  
+  - Presentations: *12th Miami Behavioral Finance Conference, FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*  
 &nbsp;
 
 - [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Joanna Wang](https://www.joannawang-finance.com/)
