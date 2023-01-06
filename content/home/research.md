@@ -24,6 +24,13 @@ title: Research
 <!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
 &nbsp;
 
+- [How to Talk When a Machine is Listening? Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), accepted, **_Review of Financial Studies_** 
+  - *Managers reshape the style and sentiment of their disclosure, and their voice emotion in response to the increasing machine and AI readership.*
+  - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12)
+  - CAPANA 2021 Conference Best Paper Award
+  - Presentations:  *AFA 2022, NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference, FIRS 2021, RCFS Winter Conference 2021*   
+&nbsp;
+
 ## **What's New**
 
 - **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
@@ -32,12 +39,6 @@ title: Research
 &nbsp;
 
 ## **Working Papers**
-
-- [How to Talk When a Machine is Listening? Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), Revise and Resubmit, **_Review of Financial Studies_** 
-  - *Managers reshape the style and sentiment of their disclosure, and their voice emotion in response to the increasing machine and AI readership.*
-  - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12)
-  - Presentations:  *AFA 2022, NBER Big Data and Securities Markets Conference, NBER Economics of AI Conference, Adam Smith Workshop Spring 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference, FIRS 2021, RCFS Winter Conference 2021*   
-&nbsp;
 
 - [Uncovering Mutual Fund Private Information with Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966)
   - *Mutual fund managers disclose matarial information in their disclosure to fund shareholders, which can be captured by state-of-the-art natural language processing (NLP) algorithms and helps identify skilled fund managers.*
