@@ -18,12 +18,6 @@ title: Research
 ---
 
 ## **Publication**
-
-- [Copycat Skills and Disclosure Costs: Evidence from Peer Companies’ Digital Footprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3280744), with [Sean Cao](https://sites.google.com/view/seancao/home), [Kai Du](https://sites.google.com/view/kai-du/) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), 2021,  **_Journal of Accounting Research_** 59: 1261–1302.
-  - *Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.*
-<!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
-&nbsp;
-
 - [How to Talk When a Machine is Listening? Corporate Disclosure in the Age of AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683802), with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), accepted, **_Review of Financial Studies_** 
   - *Managers reshape the style and sentiment of their disclosure, and their voice emotion in response to the increasing machine and AI readership.*
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12), [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-20/sweet-talking-ceos-are-starting-to-outsmart-the-robot-analysts), [Financial Times](https://www.ft.com/content/ca086139-8a0f-4d36-a39d-409339227832), [CNBC](https://www.cnbc.com/amp/2020/10/20/corporate-execs-are-talking-differently-on-earnings-calls-to-please-the-machines.html), [Guardian](https://www.theguardian.com/commentisfree/2020/dec/05/companies-are-now-writing-reports-tailored-for-ai-readers-and-it-should-worry-us)
@@ -31,6 +25,10 @@ title: Research
   - Presentations:  *AFA 2022, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, FIRS 2021*   
 &nbsp;
 
+- [Copycat Skills and Disclosure Costs: Evidence from Peer Companies’ Digital Footprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3280744), with [Sean Cao](https://sites.google.com/view/seancao/home), [Kai Du](https://sites.google.com/view/kai-du/) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), 2021,  **_Journal of Accounting Research_** 59: 1261–1302.
+  - *Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.*
+<!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
+&nbsp;
 ## **What's New**
 
 - **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
@@ -51,7 +49,7 @@ title: Research
   - Presentations: *CICF 2021,  2022 Global AI Finance Research Conference, 35th Australasian Finance and Banking Conference, China Fintech Research Conference, MFA 2023*  
 &nbsp;
 
-- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/), invited for dual submission, *Review of Financial Studies* 
+- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/), invited for dual submission, **Review of Financial Studies** 
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies with macroeconomic information, and helps create a profitable trading strategy.*
   - Presentations: *12th Miami Behavioral Finance Conference, FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*  
 &nbsp;
