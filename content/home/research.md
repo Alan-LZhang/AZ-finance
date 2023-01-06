@@ -49,7 +49,7 @@ title: Research
   - Presentations: *CICF 2021,  2022 Global AI Finance Research Conference, 35th Australasian Finance and Banking Conference, China Fintech Research Conference, MFA 2023*  
 &nbsp;
 
-- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/), invited for dual submission, **Review of Financial Studies** 
+- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/), invited for dual submission, **_Review of Financial Studies_** 
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies with macroeconomic information, and helps create a profitable trading strategy.*
   - Presentations: *12th Miami Behavioral Finance Conference, FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*  
 &nbsp;
