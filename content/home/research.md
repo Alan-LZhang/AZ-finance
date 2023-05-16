@@ -25,13 +25,13 @@ title: Research
   - Presentations:  *AFA 2022, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, FIRS 2021*   
 &nbsp;
 
-- [Copycat Skills and Disclosure Costs: Evidence from Peer Companies’ Digital Footprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3280744), with [Sean Cao](https://sites.google.com/view/seancao/home), [Kai Du](https://sites.google.com/view/kai-du/) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), 2021,  **_Journal of Accounting Research_** 59: 1261–1302.
+- [Copycat Skills and Disclosure Costs: Evidence from Peer Companies’ Digital Footprints](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-679X.12369), with [Sean Cao](https://sites.google.com/view/seancao/home), [Kai Du](https://sites.google.com/view/kai-du/) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), 2021,  **_Journal of Accounting Research_** 59: 1261–1302.
   - *Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.*
 <!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
 &nbsp;
 ## **What's New**
 
-- **(new)** [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
+- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
 - [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
 
 &nbsp;
