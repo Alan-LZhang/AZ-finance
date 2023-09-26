@@ -29,14 +29,7 @@ title: Research
   - *Digital footprints allow the identification of copycat investment firms and their targets. Copycat investment firms are selective in their imitation of peer firms' trading strategies, generating profits and imposing costs on disclosing companies.*
 <!--   - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
 &nbsp;
-```
-## **What's New**
 
-- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), October 2022
-- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), April 2022
-
-&nbsp;
-```
 ## **Working Papers**
 
 - [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)
