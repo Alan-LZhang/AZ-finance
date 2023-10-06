@@ -78,11 +78,13 @@ email: ""
 highlight_name: false
 ---
 
-Upcoming Presentation: Seminar in hybrid format, GERAD at HEC Montreal https://www.gerad.ca/en/events/2173/
-________________________________________________________________________________________________________________
 I am an Assistant Professor of Finance at Florida International University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
 
 My research has been published in *Review of Financial Studies* and *Journal of Accounting Research*, and has been presented at prestigious conferences, such as the AFA, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, and RCFS Winter Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
+
+________________________________________________________________________________________________________________
+Upcoming Presentation: [Seminar in hybrid format, GERAD at HEC Montreal](https://www.gerad.ca/en/events/2173/), 11 AM (ET), Oct 20, 2023    
+________________________________________________________________________________________________________________
 
 {{< icon name="download" pack="fas" >}} Download Alan's **{{< staticref "media/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}**.
 
