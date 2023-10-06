@@ -77,6 +77,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
 Upcoming Presentation: Seminar in hybrid format, GERAD at HEC Montreal https://www.gerad.ca/en/events/2173/
 ________________________________________________________________________________________________________________
 I am an Assistant Professor of Finance at Florida International University. My research broadly focuses on FinTech, investments and corporate finance, with a particular interest in analyzing unstructured textual data and big data on mutual funds, hedge funds and corporate disclosures.
