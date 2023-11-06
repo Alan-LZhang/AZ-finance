@@ -78,7 +78,7 @@ email: ""
 highlight_name: false
 ---
 ________________________________________________________________________________________________________________
-I am an Assistant Professor of Finance at Florida International University. My research broadly focuses on investments and corporate finance, with particular interests in the application of machine learning and AI in Finance and the impact of FinTech on financial markets, corporations, and financial intermediaries.
+I am an Assistant Professor of Finance at Florida International University since 2021. My research broadly focuses on investments and corporate finance, with particular interests in the application of machine learning and AI in Finance and the impact of FinTech on financial markets, corporations, and financial intermediaries.
 
 My research has been published in *Review of Financial Studies* and *Journal of Accounting Research*, and has been presented at prestigious conferences, such as the AFA, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, CICF, FIRS, and RCFS Winter Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
 
