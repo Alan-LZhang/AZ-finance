@@ -60,8 +60,8 @@ social:
   icon_pack: ai
   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912 
 - icon: github
-  icon_pack: fab
-  link: https://github.com/Alan-LZhang
+ # icon_pack: fab
+ # link: https://github.com/Alan-LZhang
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alanzhang_fin
