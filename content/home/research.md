@@ -48,7 +48,7 @@ title: Research
   - Presentations: *CICF 2023, 12th Miami Behavioral Finance Conference, FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*  
 &nbsp;
 
-- [FinTech Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Xiaoyu Wang](https://www.joannawang-finance.com/)
+- [Riding on the FinTech Wave: Disruption and Value Creation in Corporate Takeovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4033856), with [Xiaoyu Wang](https://www.joannawang-finance.com/)
   - *FinTech firms become increasingly attractive targets in corporate takeover markets. FinTech deals improve value creation to combine firms and generate spillover effects to peer firms.*
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/03/18/how-fintech-affects-corporate-takeover-markets/)
   - Presentations: *36th Australasian Finance and Banking Conference, FMA 2023,  Eastern Finance Association 2023, China Fintech Research Conference 2022, AsianFA 2022*\
