@@ -32,7 +32,7 @@ title: Research
 
 ## **Working Papers**
 
-- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), revise and resubmit at **_Management Science_**.
+- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307), with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/), resubmission invited, **_Management Science_**.
   - *We use state-of-the-art NLP tools to extract mutual fund managers' risk assessment from their narrative discussions, which predicts their future risk-taking and fund performance.*
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/04/29/deep-learning-mutual-fund-risk-assessment-and-performance/)
   - Presentations: *MIT Asia Conference in Accounting, CICF 2021,  2022 Global AI Finance Research Conference, 35th Australasian Finance and Banking Conference, MFA 2023*  
@@ -43,7 +43,7 @@ title: Research
   - Presentations: *Conference on Financial Innovation at Stevens Business School, Winter Conference on Machine Learning and Business at University of Miami, Latest Advances in NLP at Technische Universität München, FMA 2022, MFA 2023*   
 &nbsp;
 
-- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)
+- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442), with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/), resubmission invited, **_Management Science_**.
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies with macroeconomic information, and helps create a profitable trading strategy.*
   - Presentations: *CICF 2023, 12th Miami Behavioral Finance Conference, FIRS 2022, Machine Learning in Finance Conference at University of Florida, Research in Behavioral Finance Conference 2022*  
 &nbsp;
