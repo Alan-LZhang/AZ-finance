@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
+- icon: envelope
+  icon_pack: fas
+  link: alan.zhang@fiu.edu
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -70,7 +70,6 @@ social:
   link: https://www.linkedin.com/in/alan-zhang-0b1b0481/
 
 
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -91,6 +90,6 @@ ________________________________________________________________________________
 
 {{< icon name="ssrn" pack="ai" >}}[**SSRN Author Page**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912)
 
-{{< icon name="envelope" pack="fa" >}}(mailto:alan.zhang@fiu.edu)
+{{< icon name="envelope" pack="fa" >}}[alan.zhang@fiu.edu](mailto:alan.zhang@fiu.edu)
 
 ________________________________________________________________________________________________________________
