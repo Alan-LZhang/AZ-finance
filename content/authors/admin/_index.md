@@ -91,4 +91,6 @@ ________________________________________________________________________________
 
 {{< icon name="ssrn" pack="ai" >}}[**SSRN Author Page**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912)
 
+{{< icon name="envelope" pack="fa" >}}(mailto:alan.zhang@fiu.edu)
+
 ________________________________________________________________________________________________________________
