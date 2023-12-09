@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: alan.zhang@fiu.edu
+  link: mailto:alan.zhang@fiu.edu
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -90,6 +90,6 @@ ________________________________________________________________________________
 
 {{< icon name="ssrn" pack="ai" >}}[**SSRN Author Page**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2518912)
 
-{{< icon name="envelope" pack="fa" >}}[alan.zhang@fiu.edu](mailto:alan.zhang@fiu.edu)
+{{< icon name="envelope" pack="fa" >}}Email: [alan.zhang@fiu.edu](mailto:alan.zhang@fiu.edu)
 
 ________________________________________________________________________________________________________________
