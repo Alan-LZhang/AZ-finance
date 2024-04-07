@@ -16,12 +16,6 @@ title: Research
 
 
 ---
-## **What's new**
-
-- <code style="color : red">(New)</code> [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jinfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
-  - *We document a sharp increase in the use of generative AI by hedge fund companies after ChatGPT was introduced in 2022. Hedge fund companies adopting generative AI produce superior risk-adjusted returns relative to non-adopters.*
-
-&nbsp;
 
 ## **Publications**
 - [How to Talk When a Machine is Listening? Corporate Disclosure in the Age of AI](https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhad021/7087110?redirectedFrom=fulltext) (with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)), 2023, **_Review of Financial Studies_**.
@@ -50,6 +44,10 @@ title: Research
   - Presentations: *12th Miami Behavioral Finance Conference, Machine Learning in Finance Conference at University of Florida, FIRS, CICF,  Research in Behavioral Finance Conference, Global AI Finance Research Conference*  
 &nbsp;
 
+- <code style="color : red">(New)</code> [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jinfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
+  - *We document a sharp increase in the use of generative AI by hedge fund companies after ChatGPT was introduced in 2022. Hedge fund companies adopting generative AI produce superior risk-adjusted returns relative to non-adopters.*
+
+&nbsp;
 
 - [Beyond the Lines: Deciphering Private Information from Fund Managers' Narratives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966) (with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
   - *Mutual fund managers disclose material narrative information to fund shareholders, which can be captured by large language model (LLM) and helps identify skilled fund managers.*
