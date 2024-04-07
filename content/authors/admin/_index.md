@@ -84,7 +84,7 @@ My research has been published in *Review of Financial Studies* and *Journal of 
 ________________________________________________________________________________________________________________
 **What's new**
 
-<code style="color : red">(New)</code> [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jinfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
+<code style="color : red">(New)</code> [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) 
 ________________________________________________________________________________________________________________
 
 
