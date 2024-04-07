@@ -82,7 +82,7 @@ I am an Assistant Professor of Finance at Florida International University since
 My research has been published in *Review of Financial Studies* and *Journal of Accounting Research*, and has been presented at conferences, such as the AFA, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, FIRS, RCFS Winter Conference, Adam Smith Workshop and Cambridge Alternative Finance Conference. It also has been featured on *Bloomberg, CNBC, Financial Times, The Guardian, NBER Digest, Columbia Law School Blue Sky Blog*, and *Oxford Business Law Blog*.
 
 ________________________________________________________________________________________________________________
-## **What's new**
+# **What's new**
 <code style="color : red">(New)</code> [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jinfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
 ________________________________________________________________________________________________________________
 
