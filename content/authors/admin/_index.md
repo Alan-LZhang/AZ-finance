@@ -96,5 +96,5 @@ ________________________________________________________________________________
 
 **What's New**
 
-My paper has received Michael J. Brennan Best Paper Award in 2024.
+My paper has received Michael J. Brennan Best Paper Award by RFS in 2024.
 ________________________________________________________________________________________________________________
