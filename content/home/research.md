@@ -21,7 +21,7 @@ title: Research
 - [How to Talk When a Machine is Listening? Corporate Disclosure in the Age of AI](https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhad021/7087110?redirectedFrom=fulltext) (with [Sean Cao](https://sites.google.com/view/seancao/home), [Wei Jiang](http://www.weijiang-finance.com/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)), 2023, **_Review of Financial Studies_**.
   - *Managers reshape the style and sentiment of their disclosure, and their voice emotion in response to the increasing machine and AI readership.*
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12), [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-20/sweet-talking-ceos-are-starting-to-outsmart-the-robot-analysts), [Financial Times](https://www.ft.com/content/ca086139-8a0f-4d36-a39d-409339227832), [CNBC](https://www.cnbc.com/amp/2020/10/20/corporate-execs-are-talking-differently-on-earnings-calls-to-please-the-machines.html), [Guardian](https://www.theguardian.com/commentisfree/2020/dec/05/companies-are-now-writing-reports-tailored-for-ai-readers-and-it-should-worry-us)
-  - CAPANA 2021 Conference Best Paper Award
+  - **Michael J. Brennan Best Paper Award**, CAPANA Conference Best Paper Award
   - Presentations:  *AFA, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, FIRS, Cambridge Alternative Finance Conference*   
 &nbsp;
 
@@ -33,13 +33,13 @@ title: Research
 
 ## **Working Papers**
 
-- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307) (with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)), resubmission invited, **_Management Science_**.
+- [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307) (with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)), preparing for resubmission.
   - *We use natural language processing (NLP) tools to extract mutual fund managers' risk assessment from their narrative discussions, which predicts their future risk-taking and fund performance.*
   - Featured on [Columbia Law School Blue Sky Blog](https://clsbluesky.law.columbia.edu/2022/04/29/deep-learning-mutual-fund-risk-assessment-and-performance/)
   - Presentations: *MIT Asia Conference in Accounting, CICF,  Global AI Finance Research Conference, Australasian Finance and Banking Conference, MFA*  
 &nbsp;
 
-- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442) (with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)), resubmission invited, **_Management Science_**.
+- [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442) (with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)), preparing for resubmission.
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies with macroeconomic information, and helps create a profitable trading strategy.*
   - Presentations: *12th Miami Behavioral Finance Conference, Machine Learning in Finance Conference at University of Florida, FIRS, CICF,  Research in Behavioral Finance Conference, Global AI Finance Research Conference*
   
