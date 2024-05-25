@@ -96,5 +96,5 @@ ________________________________________________________________________________
 
 **What's New**
 
-[How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://academic.oup.com/rfs/article/36/9/3603/7087110?login=true) is awarded the Michael J. Brennan Best Paper Award at the Review of Financial Studies in 2024.
+My [paper](https://academic.oup.com/rfs/article/36/9/3603/7087110?login=true) is awarded the Michael J. Brennan Best Paper Award at the Review of Financial Studies in 2024.
 ________________________________________________________________________________________________________________
