@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
 **What's New**
 
-My [paper](https://academic.oup.com/rfs/article/36/9/3603/7087110?login=true) received the **Michael J. Brennan Best Paper Award** at *Review of Financial Studies* in 2024.
+- My paper [How to Talk When a Machine is Listening: Corporate Disclosure in the Age of AI](https://academic.oup.com/rfs/article/36/9/3603/7087110?login=true) received the **Michael J. Brennan Best Paper Award** at *Review of Financial Studies* in 2024.
 
-<span style="color: red;">(New)</span>  [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575). 
+- <span style="color: red;">(New)</span>  [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575). 
 ________________________________________________________________________________________________________________
