@@ -43,12 +43,10 @@ title: Research
 - [Artificially Intelligent Analyst Sentiment and Market Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249442) (with [Vidhi Chhaochharia](https://people.miami.edu/profile/vidhi@miami.edu), [Alok Kumar](http://moya.bus.miami.edu/~akumar/), and [Ville Rantala](https://www.villerantala.net/)), invited for resubmission.
   - *A neural-network-based analyst sentiment captures the aggregated non-predictable errors in analyst forecasts, which varies with macroeconomic information, and helps create a profitable trading strategy.*
   - Presentations: *12th Miami Behavioral Finance Conference, Machine Learning in Finance Conference at University of Florida, FIRS, CICF,  Research in Behavioral Finance Conference, Global AI Finance Research Conference*
- 
 &nbsp;
 
-- [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jingfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
+- [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jinfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
   - *Hedge fund companies adopting generative AI produce superior returns relative to nonadopters. The outperformance originates from investment in AI talent, and employing ChatGPT on firm policy and performance information.*
-  
 &nbsp;
 
 - [Beyond the Lines: Deciphering Private Information from Fund Managers' Narratives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966) (with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
