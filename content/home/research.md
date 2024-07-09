@@ -22,7 +22,6 @@ title: Research
   - *Managers reshape the style and sentiment of their disclosure, and their voice emotion in response to the increasing machine and AI readership.*
   - **Michael J. Brennan Best Paper Award**, CAPANA Conference Best Paper Award
   - Featured on [NBER Digest Lead Article](https://www.nber.org/digest-2020-12), [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-20/sweet-talking-ceos-are-starting-to-outsmart-the-robot-analysts), [Financial Times](https://www.ft.com/content/ca086139-8a0f-4d36-a39d-409339227832), [CNBC](https://www.cnbc.com/amp/2020/10/20/corporate-execs-are-talking-differently-on-earnings-calls-to-please-the-machines.html), [Guardian](https://www.theguardian.com/commentisfree/2020/dec/05/companies-are-now-writing-reports-tailored-for-ai-readers-and-it-should-worry-us)
-  
 <!--  - Presentations:  *AFA, NBER Economics of AI Conference, NBER Big Data and Securities Markets Conference, FIRS, Cambridge Alternative Finance Conference*    -->
 &nbsp;
 
