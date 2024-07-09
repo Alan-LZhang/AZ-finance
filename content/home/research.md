@@ -47,7 +47,7 @@ title: Research
 &nbsp;
 
 - [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jingfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
-  - *Hedge fund companies adopting generative AI produce superior returns relative to nonadopters. The outperformance originates from investment in AI talent, and employing ChatGPT on firm policy and performance information. 
+  - *Hedge fund companies adopting generative AI produce superior returns relative to nonadopters. The outperformance originates from investment in AI talent, and employing ChatGPT on firm policy and performance information.*
   
 &nbsp;
 
