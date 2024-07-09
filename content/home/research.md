@@ -45,9 +45,11 @@ title: Research
   - Presentations: *12th Miami Behavioral Finance Conference, Machine Learning in Finance Conference at University of Florida, FIRS, CICF,  Research in Behavioral Finance Conference, Global AI Finance Research Conference*
 &nbsp;
 
+
 - [Generative AI and Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786575) (with [Jinfei Sheng](https://sites.google.com/site/shengjinfei/), [Zheng Sun](https://sites.google.com/site/zhengsunfinance/home), and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
   - *Hedge fund companies adopting generative AI produce superior returns relative to nonadopters. The outperformance originates from investment in AI talent, and employing ChatGPT on firm policy and performance information.*
 &nbsp;
+
 
 - [Beyond the Lines: Deciphering Private Information from Fund Managers' Narratives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713966) (with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)).
   - *Mutual fund managers disclose material narrative information to fund shareholders, which can be captured by large language model (LLM) and helps identify skilled fund managers.*
