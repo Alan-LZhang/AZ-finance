@@ -30,7 +30,6 @@ title: Research
  <!-- - Presentations:  *PNC Finance Conference at University of Kentucky, GMARS Research Symposium at Michigan State University*
    - Presentations: *CICF 2019, MFA 2020, PNC Finance Conference at University of Kentucky, 16th GMARS Research Symposium at Michigan State University, 2019 Georgia Tech SESARC Conference*   -->
 &nbsp;
-
 ## **Working Papers**
 
 - [Managerial Risk Assessment and Fund Performance: Evidence from Textual Disclosure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060307) (with [Sean Cao](https://sites.google.com/view/seancao/home) and [Baozhong Yang](https://sites.google.com/view/baozhongyang/)), invited for resubmission.
